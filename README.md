@@ -1,16 +1,18 @@
 # NASA-Space-Mission-AI-Project
 **Name:** Saige
-**Track Chosen:** Conceptual Design Track  
+# NASA Space Mission AI Project
 
-### 🚀 Project Summary  
-Space missions are incredibly complex, and even the smallest equipment failure can jeopardize astronaut safety or derail mission success. This project proposes a smart AI system designed to predict equipment failures before they happen. By analyzing real-time sensor data and past maintenance logs, the AI can alert astronauts to potential issues and recommend proactive steps to fix them. The goal? Keep missions running smoothly, reduce downtime, and add an extra layer of safety and support in space.
+## Project Track  
+Conceptual Design Track
 
-### 📖 How to Use This Repo  
-This repository includes all the key documents for the project:
+## About This Project  
+This project is all about designing an AI system that can help predict when important spacecraft equipment might fail. Using data from sensors like temperature, vibration, power usage, and pressure, the AI would be able to give early warnings before something breaks down. The goal is to help astronauts and mission teams take action ahead of time, making space missions safer and more reliable.
 
-- Start with `project_proposal.md` to get an overview of the problem and why it matters.  
-- Then, check out `solution_plan.md` to see how the AI system is designed, what data it uses, and how it would work in practice.  
-- Open `testing_plan.md` for a look at how the system would be tested, what success looks like, and how risks are handled.  
-- Finally, browse the `presentation_slides.pdf` for a quick visual summary of the entire concept.
+## How to Use This Documentation  
+This documentation is written to walk you through the entire project concept step by step. Here is how it is organized:
 
-Each document builds on the last—feel free to explore them in order, or jump to the section you're most interested in!
+1. **Project Proposal:** What problem we are tackling, why it matters, and what we aim to achieve.  
+2. **Detailed Solution Plan:** How the AI system would work, including data, model choices, and overall design.  
+3. **Testing Plan:** How we plan to check that the system works well and is safe to use.  
+4. **Presentation Slides:** A summary to clearly explain the project and its key points.
+
