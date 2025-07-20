@@ -1,6 +1,5 @@
 # NASA-Space-Mission-AI-Project
 **Name:** Saige
-# NASA Space Mission AI Project
 
 ## Project Track  
 Conceptual Design Track
